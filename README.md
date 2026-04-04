@@ -32,4 +32,5 @@ I am grateful to be able to be helpful in and out of the rooms.
 
 Riddle of the day:
 Yesterday's answer:  His birthday is December 31. On December 30 he was 10. On December 31 he turned 11. On January 1 ("today"), he's still 11. This year, on December 31, he'll turn 12. So next year, he'll turn 13. 
+
 Today's Riddle:  What did the triangle say to the circle?
