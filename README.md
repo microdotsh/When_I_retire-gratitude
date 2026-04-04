@@ -18,7 +18,7 @@ Home to retire.
 
 Going to do online course work until joining Sober AF.
 
-Feeling pretty salty and lit despite things not going "my wa"!  <3
+Feeling pretty salty and lit despite things not going "my way"!  <3
 
 I am grateful for getting to fail gracefully and learning from it.
 
