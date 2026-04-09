@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-MSG_FILE="$HOME/storage/shared/doc/aa/gratitude.txt"
-NUMBER_FILE="$HOME/storage/shared/doc/aa/recipients.txt"
+MSG_FILE="$HOME/storage/shared/doc/gratitude.txt"
+NUMBER_FILE="$HOME/storage/shared/doc/recipients.txt"
 
 LOG="/data/data/com.termux/files/home/sms_debug.log"
 
