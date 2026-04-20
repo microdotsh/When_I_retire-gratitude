@@ -26,7 +26,7 @@ LOG="/data/data/com.termux/files/home/sms_debug.log"
   sort -u "$NUMBER_FILE" | shuf | while IFS= read -r NUMBER; do
    if [[ -n "$NUMBER" ]]; then
      EXTRA_LINES=(
-     "Have a great day!"
+     "Hope you had a great day!"
      "Stay salty and lit!"
      "Let's let God run it!"
      "Easy does it, but do it!"
