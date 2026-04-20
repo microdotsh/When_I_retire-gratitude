@@ -51,7 +51,7 @@ LOG="/data/data/com.termux/files/home/sms_debug.log"
      termux-toast "Sleeping for $DELAY seconds..."
      sleep "$DELAY"
      
-     COUNT=$((COUNT++))
+     COUNT=$((COUNT+1))
      if (( COUNT % 10 == 0)); then
        echo "Cooling off for 2 minutes..."
        termux-toast "Cooling off for 2 minutes..."
