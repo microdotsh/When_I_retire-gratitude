@@ -2,7 +2,7 @@ This project started when trying to distribute content via SMS to so many recipi
 
 I created a BASH script to read a number file stored on my Android device and send the content of a seperate text file with some extra steps to avoid carrier filtering of automated distribution.
 
-Scripts reads a message file for content to distribute
+Script reads a message file for content to distribute
 
 Reads a recipient file in the following format:  
   ```text
