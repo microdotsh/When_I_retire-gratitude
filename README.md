@@ -1,6 +1,6 @@
 This project started when trying to distribute content via SMS to so many recipients that it was becoming cumbersome.  (Device software doesn't support RCS)
 
-I created a BASH script to read a number file stored on my Android device and send the content of a seperate text file with some extra steps to avoid carrier filtering of automated distribution.
+I created a BASH script to read a number file stored on my Android device and send the content of a separate text file with some extra steps to avoid carrier filtering of automated distribution.
 
 Script reads a message file for content to distribute
 
@@ -64,4 +64,4 @@ Use Termux-Widget to launch script from home screen.
 
 Ultimately, because the content was so much, I decided to use the index.html here for the content, add pages and distribute the link instead.
 
-Daily content can be found at https://microdotsh.github.io/When_I_retire-gratitude/
+Daily content can be found at [https://microdotsh.github.io/When_I_retire-gratitude/](https://microdotsh.github.io/When_I_retire-gratitude/)
